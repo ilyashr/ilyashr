@@ -1,4 +1,4 @@
-## Welcome. My name is Ilya. I'm a Back-End TS Developer 👋
+## Welcome. My name is Ilya 👋
 
 - 🌱 I’m currently learning JS, TS, Nest.js
 - 📫 Reach me:  [Telegram](https://t.me/ilyashr)
